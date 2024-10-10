@@ -1,4 +1,8 @@
 pandas
 numpy
 Flask
+seaborn
+matplotlib
+scikit-learn
+plotly
 -e .
