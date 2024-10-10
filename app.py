@@ -1,8 +1,8 @@
 from flask import Flask,request,redirect,render_template,url_for,jsonify
 from src.pipelines.prediction_pipelines import PredictionPipeline,CustomData
 
-application = Flask(__name__)
-app = application
+app = Flask(__name__)
+
 
 @app.route('/')
 def home_page():
