@@ -59,33 +59,22 @@ I have used multiple Machine Learning Models like
 
 ### Performance of the Model
 
-LinearRegression
-Model is training
-mae : 701.8210523683321
-rmse : 1080.2291894474297
-r2_score : 92.83642124049126
-================================
+#### LinearRegression Model is training
+#### mae : 701.8210523683321
+#### rmse : 1080.2291894474297
+#### r2_score : 92.83642124049126
 
+#### Lasso Model is training
+#### mae : 702.4736206129112
+#### rmse : 1080.1873387587316
+#### r2_score : 92.83697629843647
 
-Lasso
-Model is training
-mae : 702.4736206129112
-rmse : 1080.1873387587316
-r2_score : 92.83697629843647
-================================
+#### Ridge Model is training
+#### mae : 701.8417403564985
+#### rmse : 1080.2314311720318
+#### r2_score : 92.83639150830561
 
-
-Ridge
-Model is training
-mae : 701.8417403564985
-rmse : 1080.2314311720318
-r2_score : 92.83639150830561
-================================
-
-
-ElasticNet
-Model is training
-mae : 1074.4658387222544
-rmse : 1559.8660512966787
-r2_score : 85.06267481176508
-================================
+#### ElasticNet Model is training
+#### mae : 1074.4658387222544
+#### rmse : 1559.8660512966787
+#### r2_score : 85.06267481176508
